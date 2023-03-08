@@ -5,12 +5,12 @@ This webpage is a page for a Social Solution Service company. It is an example o
 
 
 ## Credits
-The source code for this project is from a-nyx in the GitLab repository that can be found [here](https://utoronto.bootcampcontent.com/utoronto-bootcamp/UTOR-VIRT-FSF-PT-02-2023-U-LOLC/-/tree/main/01-HTML-Git-CSS/02-Challenge)
+The source code for this project is from a-nyx in the GitLab repository that can be found [here](https://utoronto.bootcampcontent.com/utoronto-bootcamp/UTOR-VIRT-FSF-PT-02-2023-U-LOLC/-/tree/main/01-HTML-Git-CSS/02-Challenge).
 
 ## License
 N/A
 
 ## Assets
-The following demonstrated the websites appearance:
+The following demonstrates the websites appearance:
 
-![The webpage includes a large image at the top followed by information to the social solution services offered.](./images/digital-marketing-meeting.jpg)
+![The webpage includes a large image at the top followed by information to the social solution services offered.](assets/images/digital-marketing-meeting.jpg)
