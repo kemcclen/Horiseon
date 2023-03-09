@@ -13,4 +13,4 @@ N/A
 ## Assets
 The following demonstrates the websites appearance:
 
-![The webpage includes a large image at the top followed by information to the social solution services offered.](assets/images/digital-marketing-meeting.jpg)
+![The webpage includes a large image at the top followed by information to the social solution services offered.](assets/images/webpage-appearance.png)
