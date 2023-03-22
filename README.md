@@ -2,6 +2,7 @@
 
 ## Description
 This webpage is a page for a Social Solution Service company. It is an example of an on the job ticket for students completing the SCS Coding Bootcamp Online.
+Link to deplayed webpage: (https://kemcclen.github.io/Horiseon/)
 
 
 ## Credits
